@@ -4,10 +4,14 @@ This is a server which allow client to exchange their messages.
 # How to use this server
 1. Clone this repository to your storage.
 2. Navigate to the src folder of this repository in your terminal.
-3. To compile server source code type a command:
+3. To compile server source code type a following command:
+   
 make server
-4. Then run the server executable file:
-   ./server
+
+5. Then run the server executable file:
+   
+./server
+   
 Now listener socket is ready to listen for incomming connections.
 
 # Connecting to the server via telnet client (my own client is not ready).
