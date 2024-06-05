@@ -35,3 +35,8 @@ but you can change it by adding the following line to command.h file:
 
 When looking for port number, check the IANA list. (https://www.iana.org/assignments/service-names-port-numbers)
 
+# Funny part of the programm
+Connect to the server from multiple windows, start typing at one window, then look at another window.
+Notice how data transfer occurs.
+How exciting!
+
