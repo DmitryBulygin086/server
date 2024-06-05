@@ -26,12 +26,12 @@ This is your IPv4 address.
 
 Now when you know your IPv4 address, you can connect to the server via the following command:
 
-telnet [YOUR IPv4 ADDRESS] [PORT NUMBER OF THE SERVER]
+telnet  [YOUR IPv4 ADDRESS]  [PORT NUMBER OF THE SERVER]
 
 In this case, port number of the server is 8080 (look at the common.h file),
 but you can change it by adding the following line to command.h file:
 
-#define PORT [DESIRED PORT NUMBER]
+#define PORT  [DESIRED PORT NUMBER]
 
-When looking for port number, check the IANA list.(https://www.iana.org/assignments/service-names-port-numbers)
+When looking for port number, check the IANA list. (https://www.iana.org/assignments/service-names-port-numbers)
 
