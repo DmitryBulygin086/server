@@ -1,6 +1,9 @@
 # server
 This is a server which allow client to exchange their messages.
 
+# IMPORTANT NOTE
+Client is under development...
+
 # How to use this server
 1. Clone this repository to your storage.
 2. Navigate to the src folder of this repository in your terminal.
