@@ -1,9 +1,6 @@
 # server
 This is a server which allow client to exchange their messages.
 
-# IMPORTANT NOTE
-Client is under development...
-
 # How to use this server
 1. Clone this repository to your storage.
 2. Navigate to the src folder of this repository in your terminal.
@@ -17,7 +14,7 @@ make server
    
 Now listener socket is ready to listen for incomming connections.
 
-# Connecting to the server via telnet client (my own client is not ready).
+# Connecting to the server via telnet client.
 To connect to the server you need to know your IPv4 address.
 Open your terminal and type the following command:
 
@@ -38,7 +35,7 @@ but you can change it by adding the following line to command.h file:
 
 When looking for port number, check the IANA list. (https://www.iana.org/assignments/service-names-port-numbers)
 
-# Funny part of the programm
+
 Connect to the server from multiple windows, start typing at one window, then look at another window.
 Notice how data transfer occurs.
 How exciting!
